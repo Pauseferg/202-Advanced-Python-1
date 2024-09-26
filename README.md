@@ -21,6 +21,8 @@
 
 8. Для выполнения заданий сделать форк репозитория [202-Advanced-Python-1](https://github.com/vongostev/202-Advanced-Python-1)
 
-## Задания по Python. Часть 1
+## Задания по Python. Сентябрь - октябрь
 
-Здесь будет первая часть условий задач для прохождения промежуточной аттестации.
+Для прохождения промежуточной аттестации необходимо выполнить задания:
+1. Задания на базовый синтаксис, условие которого описано [тут](https://github.com/vongostev/202-Advanced-Python-1/blob/main/Basics/README.md)
+2. Задания по `numpy`, которые описаны [тут](https://github.com/vongostev/202-Advanced-Python-1/blob/main/Numpy/README.md)
